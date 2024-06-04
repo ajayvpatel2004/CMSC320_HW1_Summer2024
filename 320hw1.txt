@@ -1,0 +1,1 @@
+I am taking 320 in order to fulfill a requirement and to better understand how Git and SQL work.
